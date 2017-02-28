@@ -12,7 +12,7 @@
 
 #include "declarations.h"
 
-                                                                //defintes the maximum ray depth
+                                                                //defines the maximum ray depth
 #define MAX_RAY_DEPTH 2
 
 using namespace std;
