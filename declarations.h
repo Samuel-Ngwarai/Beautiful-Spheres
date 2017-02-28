@@ -6,6 +6,7 @@
 //  Copyright © 2016 Samuel Ngwarai. All rights reserved.
 //
 
+//this file serves as the declaration of the Vectors and Spheres that will be used in the main function.
 
 #include <cstdio>
 #include <cstdlib>
@@ -17,7 +18,6 @@
 #include <algorithm>
 
 using namespace std;
-//this file serves as the declaration of the Vectors and Spheres that will be used in the main function.
 #ifndef declarations_h
 #define declarations_h
 
